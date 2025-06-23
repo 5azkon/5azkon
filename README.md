@@ -28,16 +28,7 @@
 
 ---
 
-📚 **Current Projects**
 
-📌 ABBS System – Advanced Bus Boarding Security system - Prevents accidents while boarding on the bus.
-📌 Smart Water Indicator with Automatic Cutoff System – Monitors water levels and prevents overflow
-📌 EduCam: Smart Event-Driven Classroom Monitoring & Real-Time Alerts – AI-powered system for Classroom Monitoring.
-📌 Smart Adaptive Street Light System – Efficient energy management using LDR sensors and vehicle detection
-📌 Noise Cancellation for Clear Communication – Enhancing voice clarity using DSP & AI
-
-
----
 
 📫 **Connect With Me**
 
